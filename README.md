@@ -1,8 +1,7 @@
 # Estate_Website
 # Output
-
-![B5](https://github.com/user-attachments/assets/bf7b03b2-ef06-4706-a130-04f143b754da)
-![B5](https://github.com/user-attachments/assets/cff57608-7fb4-49e5-bf84-059fbae11c4d)
+![ss1](https://github.com/user-attachments/assets/918f67de-29c5-443d-9569-f8cefd2ca839)
+![ss2](https://github.com/user-attachments/assets/795d161e-ec77-4931-ae76-133ca3fc974a)
 ![ss3](https://github.com/user-attachments/assets/558e586e-dd76-4573-bde2-eab5ffe8898d)
-![ss3](https://github.com/user-attachments/assets/b1860adb-f984-4656-b932-08f1e3d4937b)
-![ss3](https://github.com/user-attachments/assets/cbbae690-1125-48a5-8612-281b0c781398)
+![ss5](https://github.com/user-attachments/assets/5ad71580-0020-41fc-af86-9222cfd3a549)
+![ss6](https://github.com/user-attachments/assets/777a0b3d-ffec-4278-abbe-a1dd2e3cf05d)
